@@ -6,7 +6,7 @@ Schematic:
 <img width="1327" height="701" alt="image" src="https://github.com/user-attachments/assets/888997fe-2c9b-4db0-8a46-a60e6c999997" />
 
 PCB: 
-<img width="1078" height="728" alt="image" src="https://github.com/user-attachments/assets/6e5b9c15-6d37-49c8-ad3f-c647af8c863a" />
+<img width="1030" height="722" alt="image" src="https://github.com/user-attachments/assets/a83e0832-ab64-4206-96f0-2ff19116a5ed" />
 
 3D: 
-<img width="1444" height="826" alt="image" src="https://github.com/user-attachments/assets/cf67fc60-555e-409b-9086-8620eedd0a7d" />
+<img width="1097" height="709" alt="image" src="https://github.com/user-attachments/assets/40d4ddb8-443f-44e4-9042-3eef6989afaa" />
